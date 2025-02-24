@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on Data Analsty
+🌱 I’m currently learning AI Powered Agents
+👯 I’m looking to collaborate on integrating AI models with public users.
