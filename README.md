@@ -23,7 +23,7 @@
 
 ## ➡️ About Me
 
-- 👋 Hi, I'm Rian! I'm a Software Engineer focused on backend services.
+- 👋 Hi, I'm Stanley! I'm a Software Engineer focused on backend services.
 - 🎓 CS @ City University of Hong Kong
 - 🎯 I love contributing to OSS projects!
 
