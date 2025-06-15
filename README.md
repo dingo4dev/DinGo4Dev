@@ -24,7 +24,7 @@
 ## ➡️ About Me
 
 - 👋 Hi, I'm Stanley! I'm a Software Engineer focused on backend services.
-- 🎓 CS @ City University of Hong Kong
+- 🎓 Data & Computer Engineering @ City University of Hong Kong
 - 🎯 I love contributing to OSS projects!
 
 ## ✅ Languages and Frameworks
