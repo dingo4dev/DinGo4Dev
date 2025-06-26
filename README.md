@@ -1,21 +1,20 @@
 # Hi there, I'm Stanley 👋
 ## Sofware Engineer | Open Source Contributor 
-
-<div align="center">
   
   ![](https://github.com/DinGo4Dev/stats/blob/master/generated/overview.svg)
   ![](https://github.com/DinGo4Dev/stats/blob/master/generated/languages.svg)
   
+<div align="center">
 </div>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=DinGo4Dev&show_icons=true&theme=tokyonight" 
-    alt="Rian's GitHub stats" 
+    src="https://github-readme-stats.vercel.app/api?username=dingo4dev&show_icons=true&theme=tokyonight" 
+    alt="dingo4dev's GitHub stats" 
     height="150"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinGo4Dev&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dingo4dev&layout=compact&theme=tokyonight" 
     alt="Top Languages" 
     height="150"
   />
@@ -79,3 +78,5 @@
 
 ## 🤝 Connect with me!!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanley-law/)
+
+[![Stanley Law profile views](https://u8views.com/api/v1/github/profiles/19900516/views/day-week-month-total-count.svg)](https://u8views.com/github/dingo4dev)
