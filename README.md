@@ -1,5 +1,6 @@
-# Hi there, I'm Stanley 👋
+# Hi there, I'm Stanley 👋 
 ## Sofware Engineer | Open Source Contributor 
+  
   
   ![](https://github.com/DinGo4Dev/stats/blob/master/generated/overview.svg)
   ![](https://github.com/DinGo4Dev/stats/blob/master/generated/languages.svg)
@@ -22,6 +23,7 @@
 
 ## ➡️ About Me
 
+![](https://komarev.com/ghpvc/?username=dingo4dev&color=blue&style=flat)
 - 👋 Hi, I'm Stanley! I'm a Software Engineer focused on backend services.
 - 🎓 Data & Computer Engineering @ City University of Hong Kong
 - 🎯 I love contributing to OSS projects!
