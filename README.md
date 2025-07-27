@@ -1,7 +1,6 @@
 # Hi there, I'm Stanley 👋 
 ## Sofware Engineer | Open Source Contributor 
   
-  
   ![](https://github.com/DinGo4Dev/stats/blob/master/generated/overview.svg)
   ![](https://github.com/DinGo4Dev/stats/blob/master/generated/languages.svg)
   
@@ -19,6 +18,11 @@
     alt="Top Languages" 
     height="150"
   />
+  <img
+    src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/156233724"
+    alt="Databricks Certified Data Engineer Professional"
+    height="150"
+    />
 </p>
 
 ## ➡️ About Me
